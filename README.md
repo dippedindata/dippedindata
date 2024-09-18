@@ -3,4 +3,4 @@ Big data analytics manager who is fascinated by small data challenges and lookin
  - Programming: Python, SQL, Stan, Julia, R.
  - Development: Gitlab, Docker, Jupyter Lab, Windows, Linux, Jetbrains, 
  - Cloud: AWS (Redshift, Athena, S3, Batch)
- - Data Analysis: Bayesian Data Analysis! (Gelman et al, Bayesian Data Analysis, 3rd ed., CRC Press, 2013)
+ - Data Analysis: Bayesian! (Gelman et al, Bayesian Data Analysis, 3rd ed., CRC Press, 2013)
